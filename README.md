@@ -1,6 +1,10 @@
 # laravel-demo
 
+try to make web application with laravel and vue.js
+
 ## Introduction
+
+setup environment and initial project
 
 ### Setup Laravel (For windows)
 

@@ -50,6 +50,8 @@ use Vue.js framework instead html
 3. Run `npm install`
 4. Run `npm install vue-router --save-dev`
 
+### Implement
+
 - Init Home Page
 1. Open cmd.exe
 1. Run `cd \xampp\htdocs`

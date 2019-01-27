@@ -5,8 +5,6 @@ import LoginPage from './components/LoginPage.vue'
 
 Vue.use(Router);
 
-console.log(Router)
-
 const router = new Router({
   routes: [
     {
